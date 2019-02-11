@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/bg_wight"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/textMin"
+            android:layout_width="match_parent"
+            android:padding="@dimen/x15"
+            android:text="@string/pal1" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="产品名称"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="贷款类型"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="借款用途"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="借款用途"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="最高可还金额"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="100"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="借款额度"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="6万"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="借款期限"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="6个月"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <TextView
+            style="@style/textMin"
+            android:layout_width="match_parent"
+            android:padding="@dimen/x15"
+            android:text="@string/pal6" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="@string/pal7"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="姓名"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal8"
+                android:textSize="@dimen/tv_28px" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="男" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="女" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="@string/pal9"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="123456"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="@string/pal10"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="学历"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal11"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="户籍地址"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="@string/pal12"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="居住地址"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            android:id="@+id/linPAMarriage"
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="@string/pal13"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="婚否"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="@string/pal14"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="手机号码"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            android:id="@+id/linPAContact"
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="@string/pal15"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="联系人信息"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x2"
+            android:layout_marginTop="10dp"
+            android:background="@color/view_color2" />
+
+        <TextView
+            style="@style/textMain"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="@dimen/x15"
+            android:text="这个人信誉比较好" />
+
+        <include layout="@layout/include_line" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x2"
+            android:layout_marginTop="10dp"
+            android:background="@color/view_color2" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="审核状态"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="审核至考察员"
+                android:textSize="@dimen/tv_24px" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/textMin"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="@dimen/x15"
+                android:text="申请表照片" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|left"
+                android:src="@mipmap/ic_launcher" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/textMin"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="@dimen/x15"
+                android:text="考察图片" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|left"
+                android:src="@mipmap/ic_launcher" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/textMin"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="@dimen/x15"
+                android:text="合同图片" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|left"
+                android:src="@mipmap/ic_launcher" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <Button
+                style="@style/butKuang"
+                android:layout_width="0dp"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="@dimen/x15"
+                android:layout_weight="1"
+                android:background="@drawable/kuang_but2"
+                android:text="撤销" />
+
+            <Button
+                android:id="@+id/butReturnBill"
+                style="@style/butKuang"
+                android:layout_width="0dp"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="@dimen/x15"
+                android:layout_weight="1"
+                android:background="@drawable/kuang_but2"
+                android:text="回款账单" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>

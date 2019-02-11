@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_wight"
+    android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/linMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            style="@style/editStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:hint="请留下您的意见与反馈。。。" />
+
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="3">
+
+
+    </GridView>
+
+    <LinearLayout
+        style="@style/linMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/x20">
+
+        <EditText
+            style="@style/editStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:hint="请留下您的联系方式，便于处理您的反馈" />
+
+    </LinearLayout>
+
+    <Button
+        style="@style/butKuang"
+        android:layout_margin="@dimen/x40"
+        android:text="提交" />
+
+
+</LinearLayout>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.dq.xindai.view.SwipeView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            style="@style/linStyle"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="match_parent"
+                android:text="你说这夹不道子怎弄？" />
+
+            <LinearLayout
+                style="@style/linStyle"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/ic_launcher" />
+
+                <TextView
+                    style="@style/textTitle"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:text="金刚蛋"
+                    android:textSize="@dimen/tv_24px" />
+
+                <TextView
+                    style="@style/textMin"
+                    android:text="今天 12:00" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/x2"
+                android:background="@color/view_color" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:background="#FF723E"
+                android:text="编辑" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:background="@color/textColor3"
+                android:text="删除" />
+
+        </LinearLayout>
+
+    </com.dq.xindai.view.SwipeView>
+
+</FrameLayout>

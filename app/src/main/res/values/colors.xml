@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#999</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_wight">#ffffff</color>
+    <color name="view_color">#E2E2E2</color>
+    <color name="view_color2">#F3F3F3</color>
+
+    <color name="textColor1">#202020</color>
+    <color name="textColor2">#666666</color>
+    <color name="textColor3">#E12929</color>
+
+    <color name="tv_color1">#E02020</color>
+    <color name="tv_color2">#282828</color>
+    <color name="tv_color3">#666666</color>
+    <color name="tv_color4">#A5A5A5</color>
+
+</resources>

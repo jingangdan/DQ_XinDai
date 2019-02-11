@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/kuang_text"
+        android:orientation="horizontal"
+        android:padding="@dimen/x15">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                style="@style/linStyle"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/itemTvSISerial"
+                    style="@style/textMain"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:text="贷款类型" />
+
+                <TextView
+                    android:id="@+id/itemTvSIDataCreated"
+                    style="@style/textMin"
+                    android:text="6月6日 12:00" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/linStyle"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="借款类型：" />
+
+                    <TextView
+                        android:id="@+id/itemTvSICategoryName"
+                        style="@style/textTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_weight="1" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="是否代办：" />
+
+                    <TextView
+                        android:id="@+id/itemTvSIIsRevoke"
+                        style="@style/textTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_weight="1" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/linStyle"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="还款方式：" />
+
+                    <TextView
+                        android:id="@+id/itemTvSIRepaymentName"
+                        style="@style/textTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_weight="1" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="借款利率：" />
+
+                    <TextView
+                        android:id="@+id/itemTvSIRate"
+                        style="@style/textTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_weight="1" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/linStyle"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="交易金额：" />
+
+                    <TextView
+                        android:id="@+id/itemTvSIMoney"
+                        style="@style/textTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_weight="1" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="利息：" />
+
+                    <TextView
+                        android:id="@+id/itemTvSIInterest"
+                        style="@style/textTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_weight="1" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/linStyle"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="状态：" />
+
+                <TextView
+                    android:id="@+id/itemTvSIStatus"
+                    style="@style/textTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/itemIvSI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|bottom"
+        android:layout_margin="@dimen/x15"
+        android:src="@mipmap/ic_loan_type001"
+        android:visibility="gone" />
+
+</FrameLayout>

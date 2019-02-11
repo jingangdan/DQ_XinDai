@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/linStyle"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_launcher" />
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="match_parent"
+                android:text="金刚蛋" />
+
+            <LinearLayout
+                android:layout_marginTop="@dimen/x10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/textMin"
+                    android:layout_marginRight="@dimen/x15"
+                    android:text="家里蹲大学" />
+
+                <TextView
+                    style="@style/textMin"
+                    android:text="长城贴瓷砖系" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_marginTop="@dimen/x5"
+            android:layout_gravity="top"
+            style="@style/textMin"
+            android:text="今天 12:00" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x2"
+        android:background="@color/view_color" />
+
+</LinearLayout>

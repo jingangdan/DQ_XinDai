@@ -1,0 +1,150 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!--隐藏ActionBar-->
+        <item name="windowActionBar">false</item>
+        <!--隐藏标题-->
+        <item name="windowNoTitle">true</item>
+
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <!--发布界面 透明背景的Activity-->
+    <style name="NoTitleTranslucentTheme" parent="AppTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="linStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/x15</item>
+    </style>
+
+    <style name="linMain">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/x20</item>
+    </style>
+
+    <!--文字-标题（黑色16）-->
+    <style name="textTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/tv_color2</item>
+        <item name="android:textSize">@dimen/tv_32px</item>
+    </style>
+
+    <!--文字-标题（白色16）-->
+    <style name="textTitleWhite">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/bg_wight</item>
+        <item name="android:textSize">@dimen/tv_32px</item>
+    </style>
+
+    <!--文字-主要（灰色14）-->
+    <style name="textMain">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/tv_color3</item>
+        <item name="android:textSize">@dimen/tv_28px</item>
+    </style>
+
+    <!--文字-小号（灰色12）-->
+    <style name="textMin">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/tv_color3</item>
+        <item name="android:textSize">@dimen/tv_24px</item>
+    </style>
+
+    <style name="textEdit">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/tv_color4</item>
+        <item name="android:textSize">@dimen/tv_28px</item>
+    </style>
+
+    <!--文字-框-->
+    <style name="textKuang">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textColor3</item>
+        <item name="android:textSize">@dimen/tv_24px</item>
+        <item name="android:background">@drawable/kuang_text</item>
+    </style>
+
+    <!--字体 主色调（红色）-->
+    <style name="textMainRed">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textColor3</item>
+        <item name="android:textSize">@dimen/tv_32px</item>
+    </style>
+
+    <!---->
+    <style name="editStyle">
+        <item name="android:layout_width">@dimen/x0</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColorHint">@color/tv_color4</item>
+        <item name="android:textColor">@color/tv_color3</item>
+        <item name="android:textSize">@dimen/tv_28px</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="butKuang">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/x72</item>
+        <item name="android:background">@drawable/kuang_but</item>
+        <item name="android:textColor">@color/bg_wight</item>
+        <item name="android:textSize">@dimen/tv_28px</item>
+    </style>
+
+    <style name="butMain">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@color/textColor2</item>
+        <item name="android:textSize">@dimen/tv_28px</item>
+    </style>
+
+    <style name="TabLayoutTextStyle">
+        <item name="android:textSize">@dimen/sp_16</item>
+    </style>
+
+    <!--网络加载框-->
+    <style name="style_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+        <item name="android:windowIsTranslucent">false</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowBackground">@android:color/transparent</item><!--背景透明-->
+        <item name="android:backgroundDimEnabled">false</item><!--模糊-->
+    </style>
+
+    <style name="BottomDialog" parent="@style/Base.V7.Theme.AppCompat.Light.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="BottomDialog.Animation" parent="Animation.AppCompat.Dialog">
+        <item name="android:windowEnterAnimation">@anim/anim_in</item>
+        <item name="android:windowExitAnimation">@anim/anim_out</item>
+    </style>
+
+    <style name="Base.Widget.Design.TabLayout" parent="android:Widget">
+        <item name="tabBackground">@drawable/tab_background</item>
+        <item name="tabIndicatorColor">#ff00ff</item>
+        <item name="tabIndicatorHeight">2dp</item>
+    </style>
+
+</resources>

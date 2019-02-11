@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\anim_out.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\anim\\anim_out.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\floating_action_button_show.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\anim\\floating_action_button_show.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\d7b74ca0c7deddab520abf3681e7b5ddc86a8a87\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\floating_action_button_hide.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\anim\\floating_action_button_hide.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\d7b74ca0c7deddab520abf3681e7b5ddc86a8a87\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\d7b74ca0c7deddab520abf3681e7b5ddc86a8a87\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_bottom_to_top.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\anim\\slide_bottom_to_top.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\d7b74ca0c7deddab520abf3681e7b5ddc86a8a87\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\anim\\anim_in.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\anim\\anim_in.xml"
+    }
+]

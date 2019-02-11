@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_wight"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tvMOName"
+        style="@style/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="充值金额"
+        android:textSize="14dp" />
+
+    <EditText
+        android:id="@+id/etMoMoney"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:inputType="number|numberDecimal"
+        android:padding="10dp" />
+
+    <TextView
+        android:id="@+id/tvMOCash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/linMoWayMode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:visibility="gone">
+
+        <TextView
+            style="@style/textTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="到账方式"
+            android:textSize="14dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/butMo1"
+                style="@style/butKuang"
+                android:layout_width="wrap_content"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/kuang_but2"
+                android:text="T+0到账" />
+
+            <Button
+                android:id="@+id/butMo2"
+                style="@style/butKuang"
+                android:layout_width="wrap_content"
+                android:background="@drawable/kuang_but3"
+                android:text="T+1到账" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvMoWayMode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="T+0提现手续费：0.05% + 2元" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/butMO"
+        style="@style/butKuang"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_gravity="bottom"
+        android:layout_margin="20dp"
+        android:text="确定"
+        android:textSize="16dp" />
+
+</LinearLayout>

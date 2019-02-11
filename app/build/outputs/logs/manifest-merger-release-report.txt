@@ -1,0 +1,442 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:2:1-226:12
+	package
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:7:5-65
+MERGED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:8:5-80
+MERGED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:9:5-81
+MERGED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:10:5-71
+MERGED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:29:5-71
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:10:22-68
+application
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:12:5-224:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\asus\.android\build-cache\2ac1fea81f803d2260acef01fd32a3b69d325195\output\AndroidManifest.xml:9:5-20
+MERGED from [com.githang:status-bar-compat:0.7] C:\Users\asus\.android\build-cache\ca4d10388b8eab3bd582e4e8fbab380930bf6c4a\output\AndroidManifest.xml:12:5-20
+MERGED from [DQ_XinDai:LRecyclerview_library:unspecified] D:\Java\Project\DQ_XinDai\LRecyclerview_library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [org.xutils:xutils:3.3.38] D:\Java\Project\DQ_XinDai\xutils\build\intermediates\bundles\default\AndroidManifest.xml:12:5-20
+MERGED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:31:5-73:19
+	android:label
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:15:9-43
+	android:largeHeap
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:17:9-33
+	android:theme
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:19:9-40
+	tools:replace
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:13:9-58
+meta-data#design_width
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:23:9-25:35
+	android:value
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:25:13-32
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:24:13-40
+meta-data#design_height
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:26:9-28:36
+	android:value
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:28:13-33
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:27:13-41
+meta-data#android.max_aspect
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:30:9-32:35
+	android:value
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:32:13-32
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:31:13-46
+provider#android.support.v4.content.FileProvider
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:authorities
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:36:13-74
+	android:grantUriPermissions
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:38:13-47
+	android:exported
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:35:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:39:13-41:63
+	android:resource
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:41:17-50
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:40:17-67
+activity#com.dq.xindai.ui.start.GuideActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:44:9-60
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:44:19-57
+activity#com.dq.xindai.ui.MainActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:46:9-51:20
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:48:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:49:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:47:13-57
+activity#com.dq.xindai.ui.StartActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:54:9-63:20
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:55:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.MAIN
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:60:27-74
+activity#com.dq.xindai.ui.StartPageActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:66:9-68:52
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:67:13-62
+activity#com.dq.xindai.ui.LoginActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:71:9-74:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:73:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:74:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:72:13-45
+activity#com.dq.xindai.ui.ResActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:77:9-80:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:79:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:80:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:78:13-43
+activity#com.dq.xindai.ui.MindActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:83:9-86:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:85:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:86:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:84:13-44
+activity#com.dq.xindai.ui.SearchActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:89:9-92:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:91:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:92:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:90:13-59
+activity#com.dq.xindai.ui.LoanDetailsActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:95:9-98:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:97:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:98:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:96:13-64
+activity#com.dq.xindai.ui.MemberActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:101:9-104:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:103:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:104:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:102:13-46
+activity#com.dq.xindai.ui.PeopleManageActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:107:9-109:52
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:108:13-52
+activity#com.dq.xindai.ui.AddPeopleActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:112:9-115:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:114:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:115:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:113:13-49
+activity#com.dq.xindai.ui.AboutActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:118:9-120:52
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:120:13-49
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:119:13-45
+activity#com.dq.xindai.ui.FeedBackActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:123:9-126:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:125:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:126:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:124:13-48
+activity#com.dq.xindai.ui.AddFriendsActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:129:9-132:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:131:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:132:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:130:13-63
+activity#com.dq.xindai.ui.InvitationCodeActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:135:9-138:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:137:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:138:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:136:13-54
+activity#com.dq.xindai.ui.MyWalletActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:141:9-144:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:143:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:144:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:142:13-48
+activity#com.dq.xindai.ui.MoneyOperationActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:147:9-150:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:149:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:150:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:148:13-54
+activity#com.dq.xindai.ui.MoneyRecordActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:153:9-156:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:155:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:156:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:154:13-51
+activity#com.dq.xindai.ui.TransactionActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:159:9-162:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:161:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:162:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:160:13-51
+activity#com.dq.xindai.ui.SearchFlowActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:165:9-168:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:167:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:168:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:166:13-50
+activity#com.dq.xindai.ui.ProductApplicationActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:171:9-174:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:173:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:174:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:172:13-58
+activity#com.dq.xindai.ui.ContactActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:177:9-180:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:179:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:180:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:178:13-47
+activity#com.dq.xindai.ui.FlowDetailActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:183:9-186:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:185:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:186:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:184:13-50
+activity#com.dq.xindai.ui.WebActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:189:9-192:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:191:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:192:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:190:13-43
+activity#com.dq.xindai.ui.FinanceDetailActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:195:9-198:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:197:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:198:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:196:13-53
+activity#com.dq.xindai.ui.LoanActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:201:9-204:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:203:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:204:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:202:13-44
+activity#com.dq.xindai.ui.DepositoryActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:207:9-210:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:209:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:210:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:208:13-50
+activity#com.dq.xindai.ui.DepositoryWaitingActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:213:9-216:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:215:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:216:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:214:13-57
+activity#com.dq.xindai.ui.LookBigImgActivity
+ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:219:9-222:73
+	android:screenOrientation
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:221:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:222:13-70
+	android:name
+		ADDED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml:220:13-50
+uses-sdk
+INJECTED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.zhy:autolayout:1.4.5] C:\Users\asus\.android\build-cache\167649b3b943f0141ed1b02833a432555bd6788b\output\AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\asus\.android\build-cache\2ac1fea81f803d2260acef01fd32a3b69d325195\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.gyf.barlibrary:barlibrary:2.3.0] C:\Users\asus\.android\build-cache\8a8eb9d14073115e3d527b3f5c34d29d54b6f7b8\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.githang:status-bar-compat:0.7] C:\Users\asus\.android\build-cache\ca4d10388b8eab3bd582e4e8fbab380930bf6c4a\output\AndroidManifest.xml:8:5-10:41
+MERGED from [DQ_XinDai:LRecyclerview_library:unspecified] D:\Java\Project\DQ_XinDai\LRecyclerview_library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [org.xutils:xutils:3.3.38] D:\Java\Project\DQ_XinDai\xutils\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
+MERGED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\asus\.android\build-cache\d7b74ca0c7deddab520abf3681e7b5ddc86a8a87\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\asus\.android\build-cache\ee0a3e086b23da5ef18a2f440b12421abb121814\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\asus\.android\build-cache\b773bee29add526f0a481eb7629c94b842e4f06c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\asus\.android\build-cache\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\asus\.android\build-cache\5f530e8895f37ca9757d4eb6db7b74831c726774\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\asus\.android\build-cache\26a7b4ce7a8f04c98f6e580b5386cb3d46f72d87\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\asus\.android\build-cache\c6fb60554419fc80cc3c5cfb4e0dbb337db93bab\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\asus\.android\build-cache\ea4785bef8d8c349ba9215682f265add559297be\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\asus\.android\build-cache\ffacef0ec828db62ab4e25cfbfcd8c2b06df4e96\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\asus\.android\build-cache\e62011c9a32af501c130c68f9cc535799371595c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\asus\.android\build-cache\d627719de13304a9903b2b3ed491c32a4d93af14\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\asus\.android\build-cache\c434e63cd2bd4922a4cf21926ca193a6284fbc80\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\asus\.android\build-cache\e5a30aa8469505df4c670eeac97298f7820e4dde\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\asus\.android\build-cache\3d0cd1f5ce937d63e0e11bd1fcce894bc2d88b8f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\asus\.android\build-cache\48a07db45439074b4f6e41c45d3ee7e0d9114da2\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\asus\.android\build-cache\04c9647a4fa63bb403249988d3ba70884002a24f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\asus\.android\build-cache\bdda43c7dfff01ef7080b53708511516e9192580\output\AndroidManifest.xml:20:5-44
+MERGED from [com.yanzhenjie:mediascanner:1.0.3] C:\Users\asus\.android\build-cache\02f3bfeae35ca3da32e4018a553e0106e2497a9d\output\AndroidManifest.xml:21:5-23:41
+MERGED from [DQ_XinDai:MPChartLib:unspecified] D:\Java\Project\DQ_XinDai\MPChartLib\build\intermediates\bundles\default\AndroidManifest.xml:17:5-19:41
+	android:targetSdkVersion
+		INJECTED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java\Project\DQ_XinDai\app\src\main\AndroidManifest.xml
+activity#com.jingang.album.app.album.AlbumActivity
+ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:32:9-36:75
+	android:windowSoftInputMode
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:36:13-72
+	android:configChanges
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:34:13-59
+	android:theme
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:33:13-69
+activity#com.jingang.album.app.album.GalleryActivity
+ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:37:9-41:75
+	android:windowSoftInputMode
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:41:13-72
+	android:configChanges
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:39:13-59
+	android:theme
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:38:13-71
+activity#com.jingang.album.app.album.NullActivity
+ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:42:9-46:75
+	android:windowSoftInputMode
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:46:13-72
+	android:configChanges
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:44:13-59
+	android:theme
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:43:13-68
+activity#com.jingang.album.app.gallery.GalleryActivity
+ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:47:9-51:75
+	android:windowSoftInputMode
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:51:13-72
+	android:configChanges
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:49:13-59
+	android:theme
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:48:13-73
+activity#com.jingang.album.app.gallery.GalleryAlbumActivity
+ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:52:9-56:75
+	android:windowSoftInputMode
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:56:13-72
+	android:configChanges
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:54:13-59
+	android:theme
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:53:13-78
+activity#com.jingang.album.app.camera.CameraActivity
+ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:57:9-61:75
+	android:windowSoftInputMode
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:61:13-72
+	android:configChanges
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:59:13-59
+	android:theme
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:60:13-68
+	android:name
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:58:13-71
+provider#com.jingang.album.provider.CameraFileProvider
+ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:63:9-72:20
+	android:authorities
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:65:13-69
+	android:grantUriPermissions
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:67:13-47
+	android:multiprocess
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:68:13-40
+	android:exported
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from [DQ_XinDai:album:unspecified] D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\AndroidManifest.xml:64:13-73

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_wight"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="请输入您要投资的金额" />
+
+    <EditText
+        android:id="@+id/editDialogCall"
+        style="@style/butMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入金额"
+        android:inputType="number"
+        android:padding="10dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/butDialogCallNo"
+            android:layout_width="0dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:background="@drawable/kuang_but3"
+            android:text="取消" />
+
+        <Button
+            android:id="@+id/butDialogCallYes"
+            android:layout_width="0dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/kuang_but2"
+            android:text="确定" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

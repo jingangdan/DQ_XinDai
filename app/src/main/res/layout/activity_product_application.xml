@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_wight"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/textMin"
+            android:layout_width="match_parent"
+            android:padding="@dimen/x15"
+            android:text="@string/pal1" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal2"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="@string/par1" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal3"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="@string/par2" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal4"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="@string/par3" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal5"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="@string/xuanze" />
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/textMin"
+            android:layout_width="match_parent"
+            android:padding="@dimen/x15"
+            android:text="@string/pal6" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal7"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="@string/par4" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal8"
+                android:textSize="@dimen/tv_28px" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="center|right"
+                android:orientation="horizontal">
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="男" />
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="女" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal9"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="@string/par5" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal10"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:text="@string/xuanze" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal11"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="@string/par6" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal12"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="@string/par7" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            android:id="@+id/linPAMarriage"
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal13"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:text="@string/xuanze" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal14"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="@string/par8" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            android:id="@+id/linPAContact"
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/pal15"
+                android:textSize="@dimen/tv_28px" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:text="@string/xuanze" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x2"
+            android:layout_marginTop="10dp"
+            android:background="@color/view_color2" />
+
+        <TextView
+            style="@style/textMain"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:padding="@dimen/x20"
+            android:text="备注。。。" />
+
+        <include layout="@layout/include_line" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x2"
+            android:layout_marginTop="10dp"
+            android:background="@color/view_color2" />
+
+
+        <Button
+            android:id="@+id/butLoanDetail"
+            style="@style/butKuang"
+            android:layout_width="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="@dimen/x30"
+            android:text="@string/tijiao" />
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">汇融e贷</string>
+    <string name="notifyTitle">提示</string>
+    <string name="notifyMsg">当前应用缺少必要权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+    <string name="tijiao">提交</string>
+    <string name="tiaoguo">跳过</string>
+    <string name="xuanze">请选择</string>
+
+    <!--主页-->
+    <string name="home1">首页</string>
+    <string name="home2">流程</string>
+    <string name="home3">个人</string>
+
+    <!--我的-->
+    <string name="meMenu1">我的钱包</string>
+    <string name="meMenu2">存管操作</string>
+    <string name="meMenu3">VIP客服</string>
+    <string name="meMenu4">交易查询</string>
+    <string name="meMenu5">关于</string>
+    <string name="meMenu6">邀请码</string>
+    <string name="meMenu7">意见反馈</string>
+
+    <!--产品申请表-->
+    <string name="pal1">借款需求</string>
+    <string name="pal2">借款用途</string>
+    <string name="pal3">最高月还款金额</string>
+    <string name="pal4">借款额度</string>
+    <string name="pal5">借款期限</string>
+    <string name="pal6">借款人信息</string>
+    <string name="pal7">姓名</string>
+    <string name="pal8">性别</string>
+    <string name="pal9">身份证号</string>
+    <string name="pal10">学历</string>
+    <string name="pal11">户籍地址</string>
+    <string name="pal12">现居住地址</string>
+    <string name="pal13">婚姻状况</string>
+    <string name="pal14">手机号码</string>
+    <string name="pal15">联系人信息</string>
+    <string name="pal16">填写备注</string>
+
+    <string name="par1">请填写详细用途</string>
+    <string name="par2">请填写数字</string>
+    <string name="par3">请填写3-10万内数字</string>
+    <string name="par4">请填写真实姓名</string>
+    <string name="par5">请填写真实身份证号</string>
+    <string name="par6">请填写身份证地址</string>
+    <string name="par7">请填写现居住地址</string>
+    <string name="par8">请填写手机号码</string>
+
+
+</resources>

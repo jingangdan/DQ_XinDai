@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_d35e716ecdd6eeb22d9e7e6c22a0a990641a53eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\48a07db45439074b4f6e41c45d3ee7e0d9114da2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_4761fee9cef7f6c1bcf10ceb5031400b8b6e4554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\04c9647a4fa63bb403249988d3ba70884002a24f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_e9ca90efcabadc6c804f39ea1a41836aa0e3cd14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\glide-3.8.0_303a3acff84f266cdf9fbd8643b1bbfed19020c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Java\Project\DQ_XinDai\MPChartLib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cc8583c5ddc1cc27e5e057ea73941c8702b7f2c3">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_b8899248b906f962a4ba8909176ba41bccee471b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\26a7b4ce7a8f04c98f6e580b5386cb3d46f72d87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_b145b2c96dc6e4a4936e971af4b482b7f4dd829c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.0\f1e24ac977505d1fdcabadaa5be1f41dc11c4286\butterknife-7.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f1e24ac977505d1fdcabadaa5be1f41dc11c4286">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\butterknife-7.0.0_771eaadad21f45c578bf2e33559c2d1274722666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Java\Project\DQ_XinDai\xutils\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="15c7d00895f2b2e23a3c06bc130c78d4d6c7aa5f">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_ad9751b9bf357486a8700483589e9195bf795f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\ffacef0ec828db62ab4e25cfbfcd8c2b06df4e96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_a2b11c10c6cd04f0cd0fda7f762d6a7d6fee0366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Java\Project\DQ_XinDai\album\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b97560ec3104a0c5ada49bd92befd21f8437049">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_07f1f9a0fb9cccfe281f7f0d626296c3a49ff22a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\e5a30aa8469505df4c670eeac97298f7820e4dde\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_810c83e6ff4cac954c3421e06b9bf393c120c04f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\bdda43c7dfff01ef7080b53708511516e9192580\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4798b2c2dd1fa53176696fa416890d27acbf5617">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_3f5f4114e2d491d565f09937fa69ab692394d1ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\ea4785bef8d8c349ba9215682f265add559297be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_0b3434ad97fe86a5d2508554e3f9635135a636ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\d627719de13304a9903b2b3ed491c32a4d93af14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4d2b8ad415048e88b41ba4afcaafe36150e69b8c">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_47122c6c1de507a3dd5d0c042dd28af8dcb227b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\02f3bfeae35ca3da32e4018a553e0106e2497a9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cbc4b046080639eb98006bed67a2fd8e67b15ee8">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_8bdb9174e63b53a26e4d80e578439acf859c2092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Java\Android\android-studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\gson-2.2.4_6dd03a8265d87664bdfaf09f2eb9e15fd75702b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\c434e63cd2bd4922a4cf21926ca193a6284fbc80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_a38c640b73d64648bf893635ea7a34c8dca3fa56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\common-1.1.0_448af2e261511daef2f017029e81e58b11ca382d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\e62011c9a32af501c130c68f9cc535799371595c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_86e894a8243c7adb6903620bcc245de8bd13bcff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\d7b74ca0c7deddab520abf3681e7b5ddc86a8a87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ae6d33f37143b08cd8c477c9e348d61ef7ed7eba">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_4f109fa4fd6c26c0a8785a6f7c3f1946d6ec25ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\8a8eb9d14073115e3d527b3f5c34d29d54b6f7b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="33fc0ac682eb92f4471354044e31d64c6e94e890">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_834cf5726dc544339f462ef68c7b6546910f6610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\ca4d10388b8eab3bd582e4e8fbab380930bf6c4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="112f73188ad66f6c5d0c699835473bc1380522e7">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_c75f40434729d0e43624293865c7b51e6ef3414a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\support-annotations-27.1.1_871bd17c2f43a8049b3e0717009997e1cf8b6e2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\5f530e8895f37ca9757d4eb6db7b74831c726774\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_0da38c27336fc9fb0ab02fcd58b06b0bd2e92f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\2ac1fea81f803d2260acef01fd32a3b69d325195\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_014c895a13365d78f77019d1943e48abf203b950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Java\Project\DQ_XinDai\LRecyclerview_library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7ddb488b2c0d6edc77c9cbdae2ca30ca4e4d1e59">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_dfe908d5cc6cf7f203b47fe548a9f3c44ff84bef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\common-1.1.0_aac752747f70d69ec6ccccd454b979cff3c7d6d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\b773bee29add526f0a481eb7629c94b842e4f06c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_01ca9ba308c64d477b0b7bae62c2625624eb79d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\167649b3b943f0141ed1b02833a432555bd6788b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9b69b69f0f434b79d767329fcf1ca6ba1540c509">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_9f624c7637ad6729b015f9bca5428b7c084d2be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\c6fb60554419fc80cc3c5cfb4e0dbb337db93bab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_6db7b6da89e229c08e4f9601fa8060cf4a36c56b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\3d0cd1f5ce937d63e0e11bd1fcce894bc2d88b8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7038c6d960d3fe26fd41bc509f256c9692d886ce">
+        <dex dex="D:\Java\Project\DQ_XinDai\app\build\intermediates\pre-dexed\release\classes_3d028275e6129291e93f04ec648aa8e11bda5bb7.jar" />
+    </item>
+
+</items>

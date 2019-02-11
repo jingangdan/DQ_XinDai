@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_wight"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/main_fl_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_above="@+id/main_ll_bottom"
+        android:layout_weight="1" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x2"
+        android:background="@color/view_color" />
+
+    <LinearLayout
+        android:id="@+id/main_ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white"
+        android:orientation="horizontal"
+        android:padding="@dimen/x5">
+
+        <LinearLayout
+            android:id="@+id/main_ll_1"
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/main_iv_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/ic_home002" />
+
+            <TextView
+                android:id="@+id/main_tv_1"
+                style="@style/textMin"
+                android:layout_marginTop="@dimen/x4"
+                android:text="@string/home1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/main_ll_2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/main_iv_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/ic_flow002" />
+
+            <TextView
+                android:id="@+id/main_tv_2"
+                style="@style/textMin"
+                android:layout_marginTop="@dimen/x4"
+                android:text="@string/home2" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/main_ll_3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/main_iv_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/ic_me002" />
+
+            <TextView
+                android:id="@+id/main_tv_3"
+                style="@style/textMin"
+                android:layout_marginTop="@dimen/x4"
+                android:text="@string/home3" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

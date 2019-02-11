@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <ImageView
+            android:layout_centerVertical="true"
+            android:id="@+id/itemIvline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/x15"
+            android:src="@mipmap/icon_home_red" />
+
+        <TextView
+            android:layout_toRightOf="@+id/itemIvline"
+            android:id="@+id/itemTvIndexSerial"
+            style="@style/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="123" />
+
+        <TextView
+            android:id="@+id/itemTvIndexProgress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="progress" />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/itemTvIndexPurposr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="purpose | repayment_name" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <LinearLayout
+            style="@style/linStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/itemTvIndexRate"
+                style="@style/textMainRed"
+                android:text="rate"
+                android:textSize="32dp" />
+
+            <TextView
+                style="@style/textMin"
+                android:layout_marginTop="@dimen/x10"
+                android:text="利息百分比" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/linStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/itemTvIndexMoney"
+                style="@style/textTitle"
+                android:text="money" />
+
+            <TextView
+                style="@style/textMin"
+                android:layout_marginTop="@dimen/x10"
+                android:text="项目金额" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/linStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/itemTvIndexTerm"
+                style="@style/textTitle"
+                android:text="term" />
+
+            <TextView
+                style="@style/textMin"
+                android:layout_marginTop="@dimen/x10"
+                android:text="期限" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/view_color" />
+
+</LinearLayout>

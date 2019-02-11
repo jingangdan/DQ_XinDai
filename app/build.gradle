@@ -1,0 +1,78 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
+    defaultConfig {
+        applicationId "com.dq.xindai"
+        minSdkVersion 15
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    // 这里做签名的配置
+    signingConfigs {
+        release {
+            try {
+                storeFile file("xindai.jks")
+                storePassword "123456"
+                keyAlias "key_xindai"
+                keyPassword "654321"
+                v1SigningEnabled true
+                v2SigningEnabled true
+            } catch (ex) {
+                throw new InvalidUserDataException(ex.toString())
+            }
+        }
+
+        debug {
+            // storeFile file("daxueshi_keystore")
+        }
+
+        repositories {
+            maven { url "https://jitpack.io" }
+        }
+
+        allprojects {
+            gradle.projectsEvaluated {
+                tasks.withType(JavaCompile) {
+                    options.compilerArgs << "-Xlint:unchecked" << "-Xlint:deprecation"
+                }
+            }
+        }
+
+        dependencies {
+            compile fileTree(include: ['*.jar'], dir: 'libs')
+            androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+                exclude group: 'com.android.support', module: 'support-annotations'
+            })
+            compile 'com.android.support:appcompat-v7:27.1.1'
+            testCompile 'junit:junit:4.12'
+            compile 'com.zhy:autolayout:1.4.5'
+            compile 'com.jakewharton:butterknife:7.0.0'
+            compile 'de.hdodenhof:circleimageview:2.2.0'
+            compile 'com.gyf.barlibrary:barlibrary:2.3.0'
+            compile 'com.android.support:design:27.1.1'
+            compile 'com.githang:status-bar-compat:latest.integration'
+            compile 'com.github.bumptech.glide:glide:3.8.0'
+            //依赖
+            compile project(':LRecyclerview_library')
+            compile project(':xutils')
+            compile project(':album')
+            compile project(':MPChartLib')
+
+            compile 'com.google.code.gson:gson:2.2.4'
+
+            compile 'com.google.zxing:core:3.3.0'
+
+        }
+    }
+}

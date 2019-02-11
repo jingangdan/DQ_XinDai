@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_wight"
+    android:orientation="vertical">
+
+    <!--<TextView-->
+        <!--style="@style/textTitle"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:padding="@dimen/x15"-->
+        <!--android:text="优惠券专区"-->
+        <!--android:textSize="@dimen/tv_28px" />-->
+
+    <!--<View-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="@dimen/x2"-->
+        <!--android:background="@color/view_color" />-->
+
+    <!--<com.github.jdsjlzx.recyclerview.LRecyclerView-->
+        <!--android:id="@+id/lrvIntegralShop"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+
+    <TextView
+        style="@style/textTitle"
+        android:layout_width="match_parent"
+        android:padding="@dimen/x15"
+        android:text="商品专区"
+        android:textSize="@dimen/tv_28px" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x2"
+        android:background="@color/view_color" />
+
+</LinearLayout>

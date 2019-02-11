@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_wight"
+    android:gravity="center|top"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FDFBF0"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="5dp"
+            android:text="注：存管账户开通后，如果想要注销，必须保证账户余额为0，并且没有投资中和借款中的资金。"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#ddd" />
+
+    <RelativeLayout
+        style="@style/linStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="您的客户号码"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/tv_depository_custody"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/view_color" />
+
+    <RelativeLayout
+        style="@style/linStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="您的客户账号号码"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/tv_depository_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/view_color" />
+
+    <RelativeLayout
+        style="@style/linStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="客户名称"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/tv_depository_true_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/view_color" />
+
+    <RelativeLayout
+        style="@style/linStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="身份证号"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/tv_depository_idcard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/view_color" />
+
+    <RelativeLayout
+        style="@style/linStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="账号类型"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/tv_depository_dep_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#ddd" />
+
+    <LinearLayout
+        android:id="@+id/lin_depository_bank"
+        style="@style/linMain"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="绑定的银行卡号"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/tv_depository_bank_card"
+            style="@style/textMain"
+            android:layout_width="0dp"
+            android:layout_marginRight="@dimen/x30"
+            android:layout_weight="1"
+            android:gravity="center|right"
+            android:text="" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_me_next" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/view_color" />
+
+    <LinearLayout
+        android:id="@+id/lin_depository_pwd"
+        style="@style/linMain"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="修改支付密码"
+            android:textSize="14dp" />
+
+        <TextView
+            style="@style/textMain"
+            android:layout_width="0dp"
+            android:layout_marginRight="@dimen/x30"
+            android:layout_weight="1"
+            android:gravity="center|right"
+            android:text="" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_me_next" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/view_color" />
+
+    <LinearLayout
+        android:id="@+id/lin_depository_moblie"
+        style="@style/linMain"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="预留手机号"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/tv_depository_mobile"
+            style="@style/textMain"
+            android:layout_width="0dp"
+            android:layout_marginRight="@dimen/x30"
+            android:layout_weight="1"
+            android:gravity="center|right"
+            android:text="" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_me_next" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/view_color" />
+
+    <LinearLayout
+        android:id="@+id/lin_depository_qianyue"
+        style="@style/linMain"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="签约手续费"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/tv_depository_qianyue"
+            style="@style/textMain"
+            android:layout_width="0dp"
+            android:layout_marginRight="@dimen/x30"
+            android:layout_weight="1"
+            android:gravity="center|right"
+            android:text="" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_me_next" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#ddd" />
+
+    <Button
+        android:id="@+id/butDepositoryCancel"
+        style="@style/butKuang"
+        android:layout_margin="@dimen/x20"
+        android:text="注销存管账户" />
+
+
+</LinearLayout>

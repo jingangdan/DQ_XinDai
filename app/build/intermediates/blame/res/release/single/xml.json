@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\xml\\album_camera_provider.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\xml\\album_camera_provider.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\xml\\file_path.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\xml\\file_path.xml"
+    }
+]

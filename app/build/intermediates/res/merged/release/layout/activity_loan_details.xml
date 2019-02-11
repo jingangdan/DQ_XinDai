@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/butLoanDetail">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/bg_wight"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scaleType="centerCrop"
+                    android:src="@mipmap/ic_background_loan_details" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true">
+
+                    <ImageView
+                        android:id="@+id/ivLoanDetailBack"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_gravity="left"
+                        android:padding="@dimen/x20"
+                        android:src="@mipmap/ic_back" />
+
+                    <TextView
+                        style="@style/textTitleWhite"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:gravity="center"
+                        android:text="贷款类型"
+                        android:textColor="#fff" />
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    style="@style/linStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_centerVertical="true"
+                    android:orientation="horizontal"
+                    android:padding="30dp">
+
+                    <LinearLayout
+                        style="@style/linStyle"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <TextView
+                            style="@style/textTitleWhite"
+                            android:text="3.333%"
+                            android:textSize="@dimen/tv_50px" />
+
+                        <TextView
+                            style="@style/textTitleWhite"
+                            android:layout_marginTop="@dimen/x10"
+                            android:text="利息百分比"
+                            android:textSize="@dimen/tv_24px" />
+
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="@dimen/x1"
+                        android:layout_height="30dp"
+                        android:background="#fff" />
+
+                    <LinearLayout
+                        style="@style/linStyle"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                style="@style/textTitleWhite"
+                                android:text="18"
+                                android:textSize="@dimen/tv_50px" />
+
+                            <TextView
+                                style="@style/textTitleWhite"
+                                android:text="个月"
+                                android:textSize="@dimen/tv_32px" />
+
+                        </LinearLayout>
+
+
+                        <TextView
+                            style="@style/textTitleWhite"
+                            android:layout_marginTop="@dimen/x10"
+                            android:text="最高10万 立即到账"
+                            android:textSize="@dimen/tv_24px" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <com.dq.xindai.linechart.LineChartInViewPager
+                android:id="@+id/new_lineChart"
+                android:layout_width="match_parent"
+                android:layout_height="300dp" />
+
+            <LinearLayout
+                style="@style/linStyle"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/textTitle"
+                    android:layout_width="match_parent"
+                    android:gravity="center"
+                    android:text="最低利率，快速放款" />
+
+                <TextView
+                    style="@style/textMin"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="@dimen/x10"
+                    android:text="本产品针对于工薪阶层业主所专属定制，手续简单，最低利息，快速放款。" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/butLoanDetail"
+        style="@style/butKuang"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="@dimen/x30"
+        android:text="立即购买" />
+
+</RelativeLayout>

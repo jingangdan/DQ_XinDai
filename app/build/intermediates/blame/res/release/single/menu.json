@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\menu\\album_menu_item_camera.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\menu\\album_menu_item_camera.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\menu\\album_menu_album.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\menu\\album_menu_album.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\release\\menu\\album_menu_gallery.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\menu\\album_menu_gallery.xml"
+    }
+]

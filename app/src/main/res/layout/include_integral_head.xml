@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/x15"
+    android:background="@color/bg_wight">
+
+    <LinearLayout
+        style="@style/linStyle"
+        android:background="#ccc"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            style="@style/textMain"
+            android:layout_marginTop="@dimen/x10"
+            android:text="我的积分：500"
+            android:textColor="@color/bg_wight" />
+
+        <LinearLayout
+            style="@style/linStyle"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/butIntegralRule"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:drawableTop="@mipmap/ic_launcher"
+                android:text="积分规则"
+                android:textColor="@color/bg_wight" />
+
+            <View
+                android:layout_width="@dimen/x2"
+                android:layout_height="fill_parent"
+                android:background="@color/view_color" />
+
+            <Button
+                android:id="@+id/butIntegralShop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:drawableTop="@mipmap/ic_launcher"
+                android:text="积分商城"
+                android:textColor="@color/bg_wight" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <TextView
+        style="@style/textTitle"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/x20"
+        android:text="积分顿换记录"
+        android:textSize="@dimen/tv_28px" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x2"
+        android:layout_marginTop="@dimen/x15"
+        android:background="@color/view_color" />
+
+</LinearLayout>

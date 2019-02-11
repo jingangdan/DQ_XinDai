@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\d7b74ca0c7deddab520abf3681e7b5ddc86a8a87\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\d7b74ca0c7deddab520abf3681e7b5ddc86a8a87\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\d7b74ca0c7deddab520abf3681e7b5ddc86a8a87\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\48a07db45439074b4f6e41c45d3ee7e0d9114da2\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\d7b74ca0c7deddab520abf3681e7b5ddc86a8a87\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chart_callserice_call_casecount.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\chart_callserice_call_casecount.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuang_text.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\kuang_text.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\selector_tab.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuang_but.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\kuang_but.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_background_unselected.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\tab_background_unselected.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\48a07db45439074b4f6e41c45d3ee7e0d9114da2\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_net_dialog.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\bg_net_dialog.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuang_but2.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\kuang_but2.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\d7b74ca0c7deddab520abf3681e7b5ddc86a8a87\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chart_thisyear_blue.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\chart_thisyear_blue.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_background_selected.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\tab_background_selected.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow002.png",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\ic_arrow002.png"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuang_but3.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\kuang_but3.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuang_login.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\kuang_login.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow001.png",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\ic_arrow001.png"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\48a07db45439074b4f6e41c45d3ee7e0d9114da2\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_net.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\progressbar_net.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressloading.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\LRecyclerview_library\\build\\intermediates\\bundles\\default\\res\\drawable\\progressloading.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_background.xml",
+        "source": "D:\\Java\\Project\\DQ_XinDai\\app\\src\\main\\res\\drawable\\tab_background.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\48a07db45439074b4f6e41c45d3ee7e0d9114da2\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\42ecd48ccb5de506fa69c2bcd77c4d68c7127130\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    }
+]

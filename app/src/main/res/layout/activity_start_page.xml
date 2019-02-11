@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_wight"
+    tools:context=".ui.StartPageActivity">
+
+    <FrameLayout
+        android:id="@+id/rel_start"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/guide_vp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+        </android.support.v4.view.ViewPager>
+
+        <Button
+            android:id="@+id/guide_ib_start"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@null"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/but_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="25dp"
+            android:background="@null"
+            android:padding="@dimen/x15"
+            android:text="@string/tiaoguo" />
+
+    </FrameLayout>
+
+
+</LinearLayout>

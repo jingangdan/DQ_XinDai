@@ -1,0 +1,627 @@
+[
+    {
+        "outputFile": "D:\\Java\\Project\\DQ_XinDai\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 14,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 14,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endLine": 7,
+                    "endColumn": 14,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endLine": 7,
+                        "endColumn": 14,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endLine": 10,
+                    "endColumn": 14,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endLine": 10,
+                        "endColumn": 14,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endLine": 13,
+                        "endColumn": 14,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endLine": 16,
+                    "endColumn": 14,
+                    "endOffset": 643
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 535,
+                        "endLine": 16,
+                        "endColumn": 14,
+                        "endOffset": 643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 648,
+                    "endLine": 19,
+                    "endColumn": 14,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endLine": 19,
+                        "endColumn": 14,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 49,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 775,
+                        "endColumn": 49,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 59,
+                    "endOffset": 880
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 825,
+                        "endColumn": 59,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 885,
+                    "endColumn": 49,
+                    "endOffset": 930
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 49,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endColumn": 58,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endColumn": 58,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 58,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 58,
+                        "endOffset": 1048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endColumn": 43,
+                    "endOffset": 1092
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1053,
+                        "endColumn": 43,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 42,
+                    "endOffset": 1135
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1097,
+                        "endColumn": 42,
+                        "endOffset": 1135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1140,
+                    "endColumn": 62,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1140,
+                        "endColumn": 62,
+                        "endOffset": 1198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 62,
+                    "endOffset": 1261
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1203,
+                        "endColumn": 62,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1266,
+                    "endColumn": 62,
+                    "endOffset": 1324
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1266,
+                        "endColumn": 62,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1329,
+                    "endColumn": 44,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 44,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 49,
+                    "endOffset": 1419
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1374,
+                        "endColumn": 49,
+                        "endOffset": 1419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1424,
+                    "endColumn": 54,
+                    "endOffset": 1474
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1424,
+                        "endColumn": 54,
+                        "endOffset": 1474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1479,
+                    "endColumn": 46,
+                    "endOffset": 1521
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1479,
+                        "endColumn": 46,
+                        "endOffset": 1521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1526,
+                    "endColumn": 48,
+                    "endOffset": 1570
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1526,
+                        "endColumn": 48,
+                        "endOffset": 1570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1575,
+                    "endColumn": 58,
+                    "endOffset": 1629
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1575,
+                        "endColumn": 58,
+                        "endOffset": 1629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1634,
+                    "endColumn": 58,
+                    "endOffset": 1688
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1634,
+                        "endColumn": 58,
+                        "endOffset": 1688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1693,
+                    "endColumn": 58,
+                    "endOffset": 1747
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1693,
+                        "endColumn": 58,
+                        "endOffset": 1747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1752,
+                    "endColumn": 39,
+                    "endOffset": 1787
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1752,
+                        "endColumn": 39,
+                        "endOffset": 1787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1792,
+                    "endColumn": 89,
+                    "endOffset": 1877
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1792,
+                        "endColumn": 89,
+                        "endOffset": 1877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1882,
+                    "endColumn": 92,
+                    "endOffset": 1970
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1882,
+                        "endColumn": 92,
+                        "endOffset": 1970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1975,
+                    "endColumn": 81,
+                    "endOffset": 2052
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1975,
+                        "endColumn": 81,
+                        "endOffset": 2052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2057,
+                    "endColumn": 66,
+                    "endOffset": 2119
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2057,
+                        "endColumn": 66,
+                        "endOffset": 2119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2124,
+                    "endColumn": 52,
+                    "endOffset": 2172
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2124,
+                        "endColumn": 52,
+                        "endOffset": 2172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2177,
+                    "endColumn": 44,
+                    "endOffset": 2217
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2177,
+                        "endColumn": 44,
+                        "endOffset": 2217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2222,
+                    "endColumn": 62,
+                    "endOffset": 2280
+                },
+                "from": {
+                    "file": "D:\\Java\\Project\\DQ_XinDai\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2222,
+                        "endColumn": 62,
+                        "endOffset": 2280
+                    }
+                }
+            }
+        ]
+    }
+]

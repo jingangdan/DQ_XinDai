@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lin_keywords"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_wight"
+    android:gravity="center|top"
+    android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/linStyle"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/et_search_keywords"
+            style="@style/editStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:cursorVisible="true"
+            android:gravity="left"
+            android:hint="关键字搜索" />
+
+        <ImageView
+            android:id="@+id/iv_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:src="@mipmap/ic_launcher" />
+
+    </LinearLayout>
+
+    <!--历史记录-->
+    <LinearLayout style="@style/linStyle">
+
+        <TextView
+            style="@style/textMain"
+            android:layout_width="match_parent"
+            android:text="历史记录" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x2"
+        android:background="@color/view_color" />
+
+    <ListView
+        android:id="@+id/lv_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:scrollbars="none">
+
+    </ListView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x2"
+        android:background="@color/view_color" />
+
+    <Button
+        android:id="@+id/but_clear_history"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginTop="@dimen/x15"
+        android:background="@drawable/kuang_text"
+        android:padding="@dimen/x15"
+        android:text="清空搜索记录"
+        android:textColor="@color/textColor3" />
+
+</LinearLayout>

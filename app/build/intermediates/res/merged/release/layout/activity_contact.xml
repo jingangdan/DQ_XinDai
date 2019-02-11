@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_wight"
+        android:orientation="vertical">
+
+
+        <TextView
+            style="@style/textMin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/x15"
+            android:text="联系人1（必填）" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="名字"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="请填写真实姓名" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="电话"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="请填写手机号码" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="与本人关系"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="比如：父母、兄妹" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="工作单位"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="请填写工作单位" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="详细地址"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="请填写详细地址" />
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/textMin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/x15"
+            android:text="联系人2（选填）" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing"
+                android:visibility="invisible" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="名字"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="请填写真实姓名" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linStyle"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing"
+                android:visibility="invisible" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="电话"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="请填写手机号码" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing"
+                android:visibility="invisible" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="与本人关系"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="比如：父母、兄妹" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing"
+                android:visibility="invisible" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="工作单位"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="请填写工作单位" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <LinearLayout
+            style="@style/linMain"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/x5"
+                android:layout_weight="0.1"
+                android:src="@mipmap/ic_pa_xing"
+                android:visibility="invisible" />
+
+            <TextView
+                style="@style/textTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="详细地址"
+                android:textSize="@dimen/tv_28px" />
+
+            <EditText
+                style="@style/editStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:hint="请填写详细地址" />
+
+        </LinearLayout>
+
+        <include layout="@layout/include_line" />
+
+        <Button
+            android:id="@+id/butLoanDetail"
+            style="@style/butKuang"
+            android:layout_width="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="@dimen/x30"
+            android:text="@string/tijiao" />
+
+    </LinearLayout>
+
+</ScrollView>
